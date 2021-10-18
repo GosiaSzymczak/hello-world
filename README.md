@@ -1,3 +1,3 @@
 # hello-world
 Exercise from the website
-Firt change in this repository. 
+First change in this repository. 
